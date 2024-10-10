@@ -7,6 +7,7 @@ chmod 700 /var/log/btmp
 chmod 755 /var/log
 chmod 660 /run/utmp
 chmod 755 /usr/bin/mkdir
+chmod 750 /usr/lib/udev/hwclock-set
 
 
 
