@@ -1,1 +1,8 @@
 chmod 755 /usr/bin/mkdir
+chmod 755 /usr/bin/bash
+chmod 4755 /usr/bin/passwd
+chmod 755 /usr/bin/sha1sum
+chmod 664 /var/log/lastlog
+chmod 755 /usr/sbin/adduser 
+chmod 700 /home/dave
+chmod 700 /home/carol
