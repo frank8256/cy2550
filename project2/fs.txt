@@ -9,6 +9,5 @@ chmod 660 /run/utmp
 chmod 755 /usr/bin/mkdir
 chmod 750 /usr/lib/udev/hwclock-set
 chmod 755 /usr/lib/x86_64-linux-gnu/security/
-
-
+chmod 755 /usr/local/share/ca-certificates
 
