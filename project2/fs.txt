@@ -4,5 +4,5 @@ chmod 4755 /usr/bin/passwd
 chmod 755 /usr/bin/sha1sum
 chmod 664 /var/log/lastlog
 chmod 755 /usr/sbin/adduser 
-chmod 755 /home/dave
-chmod 755 /home/carol
+chmod 750 /home/dave
+chmod 750 /home/carol
