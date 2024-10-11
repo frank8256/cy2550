@@ -7,7 +7,7 @@ chmod 700 /var/log/btmp
 chmod 755 /var/log
 chmod 660 /run/utmp
 chmod 755 /usr/local/share/ca-certificates
-chown :1002 /home/carol
+chown 1002 /home/carol
 chown carol /home/carol
 chown :1002 /home/dave
 chown 1002 /home/dave
