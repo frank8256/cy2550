@@ -9,6 +9,11 @@ chmod 660 /run/utmp
 chmod 755 /usr/local/share/ca-certificates
 chown :1002 /home/carol
 chown :1002 /home/dave
+chown 1002 /home/dave
+chown dave /home/dave
+
+
+
 chmod 775 /home/carol
 chmod 755 /home/dave
 chmod 755 /usr/bin/mkdir
