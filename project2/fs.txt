@@ -14,6 +14,7 @@ chown :1002 /home/dave
 chown 1002 /home/dave
 chown dave /home/dave
 chmod 755 /home/carol
+chmod 700 /home/carol/work
 chmod 755 /home/dave
 chmod 755 /usr/bin/mkdir
 
