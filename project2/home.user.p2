@@ -1,13 +1,12 @@
 # Last Modified: Fri Oct 11 22:38:02 2024
-#abi <abi/3.0>,
 
-#include <tunables/global>
+include <tunables/global>
 
-/home/frankhealey3/project2/p2 {
-  #include <abstractions/base>
 
+/home/frankhealey3/project2/p2 flags=(audit) {
   /home/frankhealey3/project2/p2 mr,
   /tmp/** rw,
+  /proc/stat r,
   /home/frankhealey3/.proj2/config rw,
   /var/log/syslog r,
   /etc/fstab r,
@@ -21,6 +20,4 @@
   /sys/devices/system/cpu/cpu0/power/control r,
   /run/sshd.pid r,
   network inet stream,
-
 }
-
