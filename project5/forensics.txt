@@ -3,3 +3,4 @@
 2024-11-02T14:40:37.240317-04:00
 /etc/shadow
 /root/abhorring-threaten-meteorites-1.sh
+/usr/bin/libnetcfg
