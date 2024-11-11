@@ -1,3 +1,4 @@
 /var/www/html/uploads/heresy-reeled-begrudge-11.php
 02/Nov/2024:14:40:34
 2024-11-02T14:40:37.240317-04:00
+/etc/shadow
